@@ -5,8 +5,8 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Tools](#tools)
+- [Best Practices](#best-practices)
 
 
 ## Tools
