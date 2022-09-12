@@ -11,7 +11,7 @@ Cloud Operations provides a secure and efficient way to operate in the Cloud thr
 What are the most used ones to daily manage IT Operations in the Cloud?
 
 
-# Contents
+# Index
 
 - [Tools](#tools)
 - [Best Practices](#best-practices)
