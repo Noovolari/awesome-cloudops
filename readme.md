@@ -17,20 +17,29 @@ What are the most used ones to daily manage IT Operations in the Cloud?
 - [Best Practices](#best-practices)
 
 
+## Mantained by
+
+- **[Noovolari](https://github.com/Noovolari)**
+
 ## Tools
 
-### IAM
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [Leapp](https://www.leapp.cloud/)
+| Name  | Repository | Supported Cloud Provider | Category | Description |
+| ----- | ---------- | ------------------------ | -------- | ----------- |
+| [Leapp](https://www.leapp.cloud)  | [<img align="right" src="https://img.shields.io/github/stars/noovolari/leapp?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars"><br><img align="right" src="https://img.shields.io/github/issues-raw/noovolari/leapp" alt="Issues"><br><img align="right" src="https://img.shields.io/github/last-commit/noovolari/leapp">](https://github.com/noovolari/leapp)| <img align="right" src="https://img.shields.io/badge/-aws-orange" alt="AWS"><br> <img align="right" src="https://img.shields.io/badge/-azure-blue" alt="Azure">                                                                                                                        | IAM, Security | Desktop App for developers to manage, secure, and access the Cloud. |
 
 
-## Best Practices
 
-### Subsection
+## Resources
+
+### Guides and Tutorials
 
 - [Guide of security and hacking in AWS](https://hackingthe.cloud/)
+
+### Podacast
+
+| Name  | Host | Platform | Description |
+| ----- | ---- | -------- | ----------- | 
+| [Cloud Automation Weekly](https://podcast.taimos.de/) | [Thorsten Hoeger](https://www.linkedin.com/in/hoegertn) | [<img src="https://img.shields.io/badge/-spotify-brightgreen">](https://open.spotify.com/show/7J3rTmvAES6brOiMrdGfUk) <br> [<img src="https://img.shields.io/badge/-apple podcast-purple">](https://podcasts.apple.com/us/podcast/cloud-automation-weekly/id1644082147?uo=4) <br> [<img src="https://img.shields.io/badge/-google podcast-yellow">](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2Nsb3VkLWF1dG9tYXRpb24td2Vla2x5) | Discover new ways to improve your AWS infrastructure by automating everything. |
 
 
 ## Contribute
