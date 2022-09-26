@@ -1,4 +1,4 @@
-# Awesome Cloudops [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome CloudOps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 IT operations are at the heart of every organization.
 
@@ -14,7 +14,7 @@ What are the most used ones to daily manage IT Operations in the Cloud?
 # Index
 
 - [Tools](#tools)
-- [Best Practices](#best-practices)
+- [Resources](#resources)
 
 
 ## Mantained by
@@ -35,7 +35,7 @@ What are the most used ones to daily manage IT Operations in the Cloud?
 
 - [Guide of security and hacking in AWS](https://hackingthe.cloud/)
 
-### Podacast
+### Podcast
 
 | Name  | Host | Platform | Description |
 | ----- | ---- | -------- | ----------- | 
