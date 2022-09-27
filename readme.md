@@ -23,8 +23,8 @@ What are the most used ones to daily manage IT Operations in the Cloud?
 
 ## Tools
 
-| Name  | Repository | Supported Cloud Provider | Category | Description |
-| ----- | ---------- | ------------------------ | -------- | ----------- |
+| Name  | Repository | Cloud Providers | Category | Description |
+| ----- | ---------- | --------------- | -------- | ----------- |
 | [Leapp](https://www.leapp.cloud)  | [<img align="right" src="https://img.shields.io/github/stars/noovolari/leapp?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars"><br><img align="right" src="https://img.shields.io/github/issues-raw/noovolari/leapp" alt="Issues"><br><img align="right" src="https://img.shields.io/github/last-commit/noovolari/leapp">](https://github.com/noovolari/leapp)| <img align="right" src="https://img.shields.io/badge/-aws-orange" alt="AWS"><br> <img align="right" src="https://img.shields.io/badge/-azure-blue" alt="Azure">                                                                                                                        | IAM, Security | Desktop App for developers to manage, secure, and access the Cloud. |
 
 
