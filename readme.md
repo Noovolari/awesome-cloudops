@@ -15,6 +15,7 @@ What are the most used ones to daily manage IT Operations in the Cloud?
 
 - [Tools](#tools)
 - [Resources](#resources)
+  -   [Podcasts](#podcasts)
 
 
 ## Mantained by
@@ -37,7 +38,7 @@ What are the most used ones to daily manage IT Operations in the Cloud?
 
 - [Guide of security and hacking in AWS](https://hackingthe.cloud/)
 
-### Podcast
+### Podcasts
 
 | Name  | Host | Platform | Description |
 | ----- | ---- | -------- | ----------- | 
