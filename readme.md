@@ -31,11 +31,6 @@ What are the most used ones to daily manage IT Operations in the Cloud?
 | [Steampipe](https://steampipe.io/)  | [<img align="right" src="https://img.shields.io/github/stars/turbot/steampipe?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars"><br><img align="right" src="https://img.shields.io/github/issues-raw/turbot/steampipe" alt="Issues"><br><img align="right" src="https://img.shields.io/github/last-commit/turbot/steampipe">](https://github.com/turbot/steampipe)|  <img align="right" src="https://img.shields.io/badge/-aws-orange" alt="AWS"><br> <img align="right" src="https://img.shields.io/badge/-azure-blue" alt="Azure"> <br> <img align="right" src="https://img.shields.io/badge/-gcp-green" alt="GCP"> <br> <img align="right" src="https://img.shields.io/badge/-alibaba-orange" alt="Alibaba"> | query, mySQL, cloud-finder | Use SQL to query cloud infrastructure, SaaS, code, logs, and more.|
 
 
-
-
-https://github.com/awslabs/aws-deployment-framework
-
-
 ## Resources
 
 ### Guides and Tutorials
