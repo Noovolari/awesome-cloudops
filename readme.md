@@ -40,6 +40,7 @@ What are the most used ones to daily manage IT Operations in the Cloud?
 ### Guides and Tutorials
 
 - [Guide of security and hacking in AWS](https://hackingthe.cloud/)
+- [Guide to DynamoDB ranging from basic to advanced concepts](https://www.dynamodbguide.com/)
 
 ### Podcasts
 
