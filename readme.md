@@ -15,7 +15,8 @@ What are the most used ones to daily manage IT Operations in the Cloud?
 
 - [Tools](#tools)
 - [Resources](#resources)
-  -   [Podcasts](#podcasts)
+  - [Podcasts](#podcasts)
+  - [Guides and Tutorials](#guides-and-tutorials)
 
 
 ## Mantained by
