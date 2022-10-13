@@ -17,6 +17,8 @@ What are the most used ones to daily manage IT Operations in the Cloud?
 - [Resources](#resources)
   - [Podcasts](#podcasts)
   - [Guides and Tutorials](#guides-and-tutorials)
+    - [API](#apis)
+    - [NoSQL Databases](#nosql-databases)
 
 
 ## Mantained by
@@ -43,8 +45,15 @@ What are the most used ones to daily manage IT Operations in the Cloud?
 
 ### Guides and Tutorials
 
-- [Guide of security and hacking in AWS](https://hackingthe.cloud/)
+#### APIs
+- **Load testing your APIs with k6 - [part 1](https://www.brunodasilvalenga.com/blog/load-testing-your-apis-how-to-make-sure-youre-ready-part-1) - [part 2](https://www.brunodasilvalenga.com/blog/load-testing-your-apis-how-to-make-sure-youre-ready-part-2)**
+
+#### NoSQL Databases
 - [Guide to DynamoDB ranging from basic to advanced concepts](https://www.dynamodbguide.com/)
+
+#### Security
+- [Guide of security and hacking in AWS](https://hackingthe.cloud/)
+
 
 ### Podcasts
 
