@@ -13,13 +13,17 @@ What are the most used ones to daily manage IT Operations in the Cloud?
 
 # Index
 
-- [Tools](#tools)
-- [Resources](#resources)
-  - [Podcasts](#podcasts)
-  - [Guides and Tutorials](#guides-and-tutorials)
-    - [API](#apis)
-    - [NoSQL Databases](#nosql-databases)
-    - [Security](#security)
+- [Awesome CloudOps ![Awesome](https://awesome.re)](#awesome-cloudops-)
+- [Index](#index)
+  - [Mantained by](#mantained-by)
+  - [Tools](#tools)
+  - [Resources](#resources)
+    - [Guides and Tutorials](#guides-and-tutorials)
+      - [APIs](#apis)
+      - [NoSQL Databases](#nosql-databases)
+      - [Security](#security)
+    - [Podcasts](#podcasts)
+  - [Contribute](#contribute)
 
 
 ## Mantained by
@@ -43,7 +47,7 @@ What are the most used ones to daily manage IT Operations in the Cloud?
 | [Skyplane](https://skyplane.org)  | [<img align="right" src="https://img.shields.io/github/stars/skyplane-project/skyplane?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars"><br><img align="right" src="https://img.shields.io/github/issues-raw/turbot/steampipe" alt="Issues"><br><img align="right" src="https://img.shields.io/github/last-commit/skyplane-project/skyplane">](https://github.com/skyplane-project/skyplane)|  <img align="right" src="https://img.shields.io/badge/-aws-orange" alt="AWS"><br> <img align="right" src="https://img.shields.io/badge/-azure-blue" alt="Azure"> <br> <img align="right" src="https://img.shields.io/badge/-gcp-green" alt="GCP"> <br> | data-transfer | bulk data transfers between any cloud 🔥|
 | [Steampipe](https://steampipe.io/)  | [<img align="right" src="https://img.shields.io/github/stars/turbot/steampipe?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars"><br><img align="right" src="https://img.shields.io/github/issues-raw/turbot/steampipe" alt="Issues"><br><img align="right" src="https://img.shields.io/github/last-commit/turbot/steampipe">](https://github.com/turbot/steampipe)|  <img align="right" src="https://img.shields.io/badge/-aws-orange" alt="AWS"><br> <img align="right" src="https://img.shields.io/badge/-azure-blue" alt="Azure"> <br> <img align="right" src="https://img.shields.io/badge/-gcp-green" alt="GCP"> <br> <img align="right" src="https://img.shields.io/badge/-alibaba-orange" alt="Alibaba"> | query, mySQL, cloud-finder | Use SQL to query cloud infrastructure, SaaS, code, logs, and more.|
 | [Terraform](https://www.terraform.io/)  | [<img align="right" src="https://img.shields.io/github/stars/hashicorp/terraform?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars"><br><img align="right" src="https://img.shields.io/github/issues-raw/hashicorp/terraform" alt="Issues"><br><img align="right" src="https://img.shields.io/github/last-commit/hashicorp/terraform">](https://github.com/hashicorp/terraform)|  <img align="right" src="https://img.shields.io/badge/-aws-orange" alt="AWS"><br> <img align="right" src="https://img.shields.io/badge/-azure-blue" alt="Azure"> <br> <img align="right" src="https://img.shields.io/badge/-gcp-green" alt="GCP"> <br> <img align="right" src="https://img.shields.io/badge/-alibaba-orange" alt="Alibaba"> | IaC, multicloud | Safely and predictably create, change, and improve infrastructure codifying APIs into declarative configuration files.|
-
+| [Infracost](https://www.infracost.io/)  | [<img align="right" src="https://img.shields.io/github/stars/infracost/infracost?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars"><br><img align="right" src="https://img.shields.io/github/issues-raw/infracost/infracost" alt="Issues"><br><img align="right" src="https://img.shields.io/github/last-commit/infracost/infracost">](https://github.com/infracost/infracost)|  <img align="right" src="https://img.shields.io/badge/-aws-orange" alt="AWS"><br> <img align="right" src="https://img.shields.io/badge/-azure-blue" alt="Azure"> <br> <img align="right" src="https://img.shields.io/badge/-gcp-green" alt="GCP"> <br> <img align="right" src="https://img.shields.io/badge/-alibaba-orange" alt="Alibaba"> | IaC, multicloud, billing | Cloud cost estimates for Terraform in pull requests. |
 
 
 
