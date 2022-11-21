@@ -20,7 +20,7 @@ What are the most used ones to daily manage IT Operations in the Cloud?
       - [APIs](#apis)
       - [NoSQL Databases](#nosql-databases)
       - [Security](#security)
-    - [Podcasts](#podcasts)
+    - [Podcasts and newsletters](#podcasts-and-newsletters)
   - [Contribute](#contribute)
 
 
@@ -64,11 +64,13 @@ What are the most used ones to daily manage IT Operations in the Cloud?
 - [Guide of security and hacking in AWS](https://hackingthe.cloud/)
 
 
-### Podcasts
+### Podcasts and newsletters
 
 | Name  | Host | Platform | Description |
 | ----- | ---- | -------- | ----------- | 
 | [Cloud Automation Weekly](https://podcast.taimos.de/) | [Thorsten Hoeger](https://www.linkedin.com/in/hoegertn) | [<img src="https://img.shields.io/badge/-spotify-brightgreen">](https://open.spotify.com/show/7J3rTmvAES6brOiMrdGfUk) <br> [<img src="https://img.shields.io/badge/-apple podcast-purple">](https://podcasts.apple.com/us/podcast/cloud-automation-weekly/id1644082147?uo=4) <br> [<img src="https://img.shields.io/badge/-google podcast-yellow">](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2Nsb3VkLWF1dG9tYXRpb24td2Vla2x5) | Discover new ways to improve your AWS infrastructure by automating everything. |
+| [tldr](https://tldrsec.com/) | [Clint Gliber](https://twitter.com/clintgibler) | [<img src="https://img.shields.io/badge/-feed-violet">](https://tldrsec.com/feed.xml) | Applying Academic Rigor to Curating the Best Security Research |
+
 
 
 ## Contribute
