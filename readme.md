@@ -64,6 +64,9 @@ What are the most used ones to daily manage IT Operations in the Cloud?
 #### Security
 - [Guide of security and hacking in AWS](https://hackingthe.cloud/)
 
+#### DevOps
+- [DevOps exercises divided in different arguments](https://github.com/bregman-arie/devops-exercises)
+
 
 ### Podcasts and newsletters
 
