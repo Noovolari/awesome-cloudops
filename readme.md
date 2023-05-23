@@ -10,6 +10,13 @@ Cloud Operations provides a secure and efficient way to operate in the Cloud thr
 
 What are the most used ones to daily manage IT Operations in the Cloud?
 
+This repo is maintained by Noovolari, and the TOPS community
+
+<h4 align="center">
+  <a href="https://join.slack.com/t/noovolari/shared_invite/zt-opn8q98k-HDZfpJ2_2U3RdTnN~u_B~Q">Join the TOPS community</a> 
+</h4>
+
+
 
 # Index
 - [Index](#index)
