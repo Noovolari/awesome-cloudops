@@ -22,8 +22,9 @@ This repo is maintained by Noovolari, and the TOPS community
 - [Index](#index)
   - [Maintained by](#maintained-by)
   - [Tools](#tools)
-  - [Git/GitOps](#git--gitops)
   - [Resources](#resources)
+    - [Git/GitOps](#git--gitops)
+    - [Docker](#docker)
     - [Guides and Tutorials](#guides-and-tutorials)
       - [APIs](#apis)
       - [NoSQL Databases](#nosql-databases)
@@ -104,9 +105,11 @@ This repo is maintained by Noovolari, and the TOPS community
 | [Winglang.io](http://winglang.io/)                                                                                          | [<img align="right" src="https://img.shields.io/github/stars/winglang/wing?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars"><br><img align="right" src="https://img.shields.io/github/issues-raw/winglang/wing" alt="Issues"><br><img align="right" src="https://img.shields.io/github/last-commit/winglang/wing">](https://github.com/winglang/wing)                                                                                                 | <img align="right" src="https://img.shields.io/badge/-aws-orange" alt="AWS"><br> <img align="right" src="https://img.shields.io/badge/-azure-blue" alt="Azure"> <br> <img align="right" src="https://img.shields.io/badge/-gcp-green" alt="GCP"> <br> <img align="right" src="https://img.shields.io/badge/-alibaba-orange" alt="Alibaba"> | Javascript, Node, Typescript                                                                                      | Wing elevates the developer experience by combining infrastructure and runtime code, minimizing the complexity of the cloud                                                                                                                                                                                                                                             |
 | [Yara](https://github.com/VirusTotal/yara)                                                                                  | [<img align="right" src="https://img.shields.io/github/stars/VirusTotal/yara?label=%E2%AD%90%EF%B8%8F&logo=github" alt="Stars"><br><img align="right" src="https://img.shields.io/github/issues-raw/VirusTotal/yara" alt="Issues"><br><img align="right" src="https://img.shields.io/github/last-commit/VirusTotal/yara">](https://github.com/VirusTotal/yara)                                                                                         | <img align="right" src="https://img.shields.io/badge/-aws-orange" alt="AWS"><br> <img align="right" src="https://img.shields.io/badge/-azure-blue" alt="Azure"> <br> <img align="right" src="https://img.shields.io/badge/-gcp-green" alt="GCP"> <br> <img align="right" src="https://img.shields.io/badge/-alibaba-orange" alt="Alibaba"> | Malware analysis, security template rules                                                                         | YARA is a tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples.                                                                                                                                                                                                                                                      |
 
-## Git / GitOps
-
 ## Resources
+
+### Git / GitOps
+
+### Docker
 
 ### Guides and Tutorials
 
