@@ -113,20 +113,25 @@ This repo is maintained by Noovolari, and the TOPS community
 
 ### Git / GitOps
 
+- [Learn Git and Open Source](https://github.com/Pradumnasaraf/open-source-with-pradumna)
+
+
 ### Docker
 
 ### Guides and Tutorials
 
 #### APIs
 
-- **Load testing your APIs with
-  k6 - [part 1](https://www.brunodasilvalenga.com/blog/load-testing-your-apis-how-to-make-sure-youre-ready-part-1) - [part 2](https://www.brunodasilvalenga.com/blog/load-testing-your-apis-how-to-make-sure-youre-ready-part-2)
-  **
+- **Load testing your APIs with k6**
+  - [part 1](https://www.brunodasilvalenga.com/blog/load-testing-your-apis-how-to-make-sure-youre-ready-part-1)
+  - [part 2](https://www.brunodasilvalenga.com/blog/load-testing-your-apis-how-to-make-sure-youre-ready-part-2)
+  
 
 #### DevOps
 
-- [DevOps exercises divided in different arguments](https://github.com/bregman-arie/devops-exercises)
+- [DevOps exercises divided into different arguments](https://github.com/bregman-arie/devops-exercises)
 - [DevOps interactive roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [DevOps tools and tech](https://github.com/Pradumnasaraf/DevOps/tree/main)
 
 #### Kubernetes
 
