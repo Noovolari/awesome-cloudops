@@ -113,8 +113,9 @@ This repo is maintained by Noovolari, and the TOPS community
 
 ### Git / GitOps
 
-- [Learn Git and Open Source](https://github.com/Pradumnasaraf/open-source-with-pradumna)
 
+- [Git Commands Explorer](gitexplorer.com)
+- [Learn Git and Open Source](https://github.com/Pradumnasaraf/open-source-with-pradumna)
 
 ### Docker
 
